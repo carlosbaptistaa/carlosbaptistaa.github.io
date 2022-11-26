@@ -33,3 +33,11 @@ body {
   margin-right: auto;
   margin-top: 60px;
 }
+
+#meu_nome {
+  text-align: center;
+}
+
+#minha_atividade {
+  text-align: center;
+}
