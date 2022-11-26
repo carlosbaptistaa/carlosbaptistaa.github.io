@@ -11,6 +11,11 @@ body {
   font-size: large;
 }
 
+#meu_nome {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: larger;
+}
+
 #cabecalho {
   background-color: rgb(47, 118, 79);
   position: fixed;
@@ -55,6 +60,43 @@ body {
 #licoes_aprendidas {
   margin-left: 30px;
 }
+
+.comunicacao {
+  font-size: 20px;
+}
+
+.lideranca {
+  font-size: 20px;
+}
+
+.proatividade {
+  font-size: 20px;
+}
+
+.github {
+  font-size: 20px;
+}
+
+.html {
+  font-size: 20px;
+}
+
+.css {
+  font-size: 20px;
+}
+
+.slack {
+  font-size: 20px;
+}
+
+.paciencia {
+  font-size: 20px;
+}
+
+.inteligencia_emocional {
+  font-size: 20px;
+}
+
 
 #secao_licoes_a_aprender {
   margin-top: 20px;
