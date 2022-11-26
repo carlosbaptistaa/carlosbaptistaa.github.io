@@ -24,3 +24,12 @@ body {
   text-align: center;
   margin: 5px;
 }
+
+#minha_foto {
+  width: 250px;
+  border-radius: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+}
