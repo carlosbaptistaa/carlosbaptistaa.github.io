@@ -90,3 +90,16 @@ body {
 #titulo_artigo {
   margin-top: 25px;
 }
+
+#rodape {
+  background-color: rgb(47, 118, 79);
+  color: rgb(225, 225, 28);
+  text-align: center;
+  font-size: large;
+}
+
+#meu_artigo {
+  margin: auto;
+  padding: 1%;
+  border: 1ch;
+}
