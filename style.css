@@ -81,3 +81,12 @@ body {
   margin: 30px;
   padding: 30px;
 }
+
+#artigo {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#titulo_artigo {
+  margin-top: 25px;
+}
