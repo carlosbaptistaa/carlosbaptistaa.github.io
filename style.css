@@ -18,3 +18,9 @@ body {
   width: 100%;
   height: 50px;
 }
+
+#titulo {
+  color: rgb(225, 225, 28);
+  text-align: center;
+  margin: 5px;
+}
