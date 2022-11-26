@@ -103,3 +103,15 @@ body {
   padding: 1%;
   border: 1ch;
 }
+
+#aside {
+  margin: auto;
+  padding: 1%;
+  border: 1ch;
+  margin-top: 10px;
+}
+
+#links_associados {
+  margin-top: 10px;
+  margin-bottom: auto;
+}
