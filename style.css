@@ -41,3 +41,13 @@ body {
 #minha_atividade {
   text-align: center;
 }
+
+#sobre_mim {
+  margin: auto;
+  padding: 50%;
+}
+
+#secao_licoes_aprendidas {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
